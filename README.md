@@ -19,7 +19,7 @@ Flask App → ServiceMonitor → Prometheus → Grafana
 ```
 
 ## Screenshot 
-![Grafana_Dashboard_screenshot](.\docs\image.png)
+![Grafana_Dashboard_screenshot](/docs/image.png)
 
 
 ## Why Observability Matters
